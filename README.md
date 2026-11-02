@@ -69,7 +69,7 @@ Sou estudante do **6º semestre de Ciência da Computação na UNIFESO** (CR 9,1
 
 ## 🚀 Projetos em destaque
 
-<!-- Venda&Voz AI, TRATO, NappaAgenda e SoldOud Tickets estão em repositórios privados: sem link público.
+<!-- Venda&Voz AI, TRATO e NappaAgenda estão em repositórios privados: sem link público.
      Os showcases estão privados por enquanto; ao publicá-los, atualize a coluna Projeto. -->
 
 | Projeto | O que resolve | Stack |
@@ -77,7 +77,7 @@ Sou estudante do **6º semestre de Ciência da Computação na UNIFESO** (CR 9,1
 | [**Venda&Voz AI**](https://github.com/ErickLopesSC/venda-voz-ai-showcase) (código privado · showcase) | Varejo físico inteligente: transcrição e diarização locais do atendimento e análise por LLM para medir conversão | Python · FastAPI · faster-whisper · Groq API |
 | [**TRATO**](https://github.com/ErickLopesSC/trato-showcase) (código privado · showcase) | Plataforma de agendamento para barbearias: catálogo, ranking por proximidade, agendamento com geolocalização e gestão do negócio | C# · ASP.NET Core · React · PostgreSQL · PostGIS |
 | [**Nappa Agenda**](https://github.com/ErickLopesSC/nappa-agenda-showcase) (código privado · showcase) | Agenda digital da clínica multidisciplinar da UNIFESO, com controle de disponibilidade e fluxo de atendimento | C# · .NET · React · PostgreSQL |
-| [**SoldOut Tickets**](https://github.com/ErickLopesSC/soldout-tickets-showcase) (código privado · showcase) | E-commerce de ingressos para eventos, modernizando um sistema legado: compra, disponibilidade e autenticação | C# · Blazor · MudBlazor · SQL Server |
+| [**SoldOut Tickets**]([https://github.com/ErickLopesSC/soldout-tickets-showcase](https://github.com/zico10-arthur/ProjetoTicket)) | E-commerce de ingressos para eventos, modernizando um sistema legado: compra, disponibilidade e autenticação | C# · Blazor · MudBlazor · SQL Server |
 | [**Controle de Gastos Residenciais**](https://github.com/ErickLopesSC/Sistema-Controle-Gastos-Residenciais) | Finanças domésticas: moradores, receitas/despesas e totais consolidados, com API REST e SPA responsiva | C# · .NET 10 · React 19 · TypeScript · SQLite |
 | [**Skate Flow**](https://github.com/ErickLopesSC/skate-flow) | Protótipo de interface para loja de aluguel de patins: dashboard, aluguel, devolução com taxa de danos e fechamento de caixa | HTML · Tailwind CSS · JavaScript |
 
