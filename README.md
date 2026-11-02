@@ -10,7 +10,7 @@
   <a href="https://github.com/ErickLopesSC">
     <img src="https://img.shields.io/badge/GitHub-ErickLopesSC-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/erick-lopes-2k02/">
+  <a href="https://www.linkedin.com/in/erick-lopes-2k02/ target="_blank"">
     <img src="https://img.shields.io/badge/LinkedIn-Erick%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:ericklopesdossantoscarvalho@gmail.com">
