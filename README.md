@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="README.md">🇧🇷 Português</a> ·
+  <a href="README.en.md">🇺🇸 English</a>
+</p>
+
 <h1 align="center">Erick Lopes dos Santos Carvalho</h1>
 <h3 align="center">Desenvolvedor Full Stack · IA aplicada ao desenvolvimento</h3>
 
@@ -65,14 +70,14 @@ Sou estudante do **6º semestre de Ciência da Computação na UNIFESO** (CR 9,1
 ## 🚀 Projetos em destaque
 
 <!-- Venda&Voz AI, TRATO e Nappa Agenda estão em repositórios privados: sem link público.
-     Ao publicar ou forkar em ErickLopesSC, atualize a coluna Projeto com os links. -->
+     Os showcases estão privados por enquanto; ao publicá-los, atualize a coluna Projeto. -->
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
-| **Venda&Voz AI** (privado) | Varejo físico inteligente: transcrição e diarização de interações com o cliente e análise por LLM para conversão de vendas | Python · faster-whisper · Groq API · React |
+| **Venda&Voz AI** (privado) | Varejo físico inteligente: transcrição e diarização locais do atendimento e análise por LLM para medir conversão | Python · FastAPI · faster-whisper · Groq API |
 | [**TRATO**](https://github.com/ErickLopesSC/trato-showcase) (código privado · showcase) | Plataforma de agendamento para barbearias: catálogo, ranking por proximidade, agendamento com geolocalização e gestão do negócio | C# · ASP.NET Core · React · PostgreSQL · PostGIS |
-| **Nappa Agenda** (privado) | Digitalização do agendamento da clínica multidisciplinar da UNIFESO, com controle de disponibilidade e fluxo de atendimento | C# · .NET · React · SQL |
-| [**ProjetoTicket**](https://github.com/zico10-arthur/ProjetoTicket) (repositório do time) | E-commerce de ingressos para eventos, modernizando um sistema legado: compra, disponibilidade e autenticação | C# · Blazor · MudBlazor · SQL Server |
+| **Nappa Agenda** (privado) | Agenda digital da clínica multidisciplinar da UNIFESO, com controle de disponibilidade e fluxo de atendimento | C# · .NET · React · PostgreSQL |
+| **SoldOut Tickets** (privado) | E-commerce de ingressos para eventos, modernizando um sistema legado: compra, disponibilidade e autenticação | C# · Blazor · MudBlazor · SQL Server |
 | [**Controle de Gastos Residenciais**](https://github.com/ErickLopesSC/Sistema-Controle-Gastos-Residenciais) | Finanças domésticas: moradores, receitas/despesas e totais consolidados, com API REST e SPA responsiva | C# · .NET 10 · React 19 · TypeScript · SQLite |
 | [**Skate Flow**](https://github.com/ErickLopesSC/skate-flow) | Protótipo de interface para loja de aluguel de patins: dashboard, aluguel, devolução com taxa de danos e fechamento de caixa | HTML · Tailwind CSS · JavaScript |
 
