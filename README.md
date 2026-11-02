@@ -5,7 +5,7 @@
   <a href="https://github.com/ErickLopesSC">
     <img src="https://img.shields.io/badge/GitHub-ErickLopesSC-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/">
+  <a href="https://www.linkedin.com/in/erick-lopes-2k02/">
     <img src="https://img.shields.io/badge/LinkedIn-Erick%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:ericklopesdossantoscarvalho@gmail.com">
@@ -79,7 +79,7 @@ Sou estudante do **6º semestre de Ciência da Computação na UNIFESO** (CR 9,1
 
 ## 📫 Vamos conversar?
 
-- 💼 LinkedIn: [linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/SEU-USUARIO/)
+- 💼 LinkedIn: [linkedin.com/in/erick-lopes-2k02](https://www.linkedin.com/in/erick-lopes-2k02/)
 - ✉️ E-mail: ericklopesdossantoscarvalho@gmail.com
 - 🐙 GitHub: [github.com/ErickLopesSC](https://github.com/ErickLopesSC)
 
