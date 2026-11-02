@@ -74,6 +74,7 @@ Sou estudante do **6º semestre de Ciência da Computação na UNIFESO** (CR 9,1
 | **Nappa Agenda** (privado) | Digitalização do agendamento da clínica multidisciplinar da UNIFESO, com controle de disponibilidade e fluxo de atendimento | C# · .NET · React · SQL |
 | [**ProjetoTicket**](https://github.com/zico10-arthur/ProjetoTicket) (repositório do time) | E-commerce de ingressos para eventos, modernizando um sistema legado: compra, disponibilidade e autenticação | C# · Blazor · MudBlazor · SQL Server |
 | [**Controle de Gastos Residenciais**](https://github.com/ErickLopesSC/Sistema-Controle-Gastos-Residenciais) | Finanças domésticas: moradores, receitas/despesas e totais consolidados, com API REST e SPA responsiva | C# · .NET 10 · React 19 · TypeScript · SQLite |
+| [**Skate Flow**](https://github.com/ErickLopesSC/skate-flow) | Protótipo de interface para loja de aluguel de patins: dashboard, aluguel, devolução com taxa de danos e fechamento de caixa | HTML · Tailwind CSS · JavaScript |
 
 ---
 
