@@ -70,7 +70,7 @@ Sou estudante do **6º semestre de Ciência da Computação na UNIFESO** (CR 9,1
 | Projeto | O que resolve | Stack |
 |---|---|---|
 | **Venda&Voz AI** (privado) | Varejo físico inteligente: transcrição e diarização de interações com o cliente e análise por LLM para conversão de vendas | Python · faster-whisper · Groq API · React |
-| **TRATO** (privado) | Marketplace multi-perfil com agendamento de serviços, ranking de estabelecimentos e gestão completa do negócio | C# · .NET · React · SQL |
+| [**TRATO**](https://github.com/ErickLopesSC/trato-showcase) (código privado · showcase) | Plataforma de agendamento para barbearias: catálogo, ranking por proximidade, agendamento com geolocalização e gestão do negócio | C# · ASP.NET Core · React · PostgreSQL · PostGIS |
 | **Nappa Agenda** (privado) | Digitalização do agendamento da clínica multidisciplinar da UNIFESO, com controle de disponibilidade e fluxo de atendimento | C# · .NET · React · SQL |
 | [**ProjetoTicket**](https://github.com/zico10-arthur/ProjetoTicket) (repositório do time) | E-commerce de ingressos para eventos, modernizando um sistema legado: compra, disponibilidade e autenticação | C# · Blazor · MudBlazor · SQL Server |
 | [**Controle de Gastos Residenciais**](https://github.com/ErickLopesSC/Sistema-Controle-Gastos-Residenciais) | Finanças domésticas: moradores, receitas/despesas e totais consolidados, com API REST e SPA responsiva | C# · .NET 10 · React 19 · TypeScript · SQLite |
