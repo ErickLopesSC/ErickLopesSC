@@ -64,6 +64,9 @@ Sou estudante do **6º semestre de Ciência da Computação na UNIFESO** (CR 9,1
 
 ## 🚀 Projetos em destaque
 
+<!-- IMPORTANTE: os repositórios originais pertencem a colaboradores (zico10-arthur, yuridomingues).
+     Antes de publicar, crie forks em ErickLopesSC e substitua os slugs <...> pelos nomes reais. -->
+
 | Projeto | O que resolve | Stack |
 |---|---|---|
 | [**Venda&Voz AI**](https://github.com/ErickLopesSC/<venda-voz-ai>) | Varejo físico inteligente: transcrição e diarização de interações com o cliente e análise por LLM para conversão de vendas | Python · faster-whisper · Groq API · React |
