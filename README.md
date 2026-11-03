@@ -16,6 +16,7 @@
   <a href="mailto:ericklopesdossantoscarvalho@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
+  
   <br><br>
   <code>ericklopesdossantoscarvalho@gmail.com</code>
 </div>
