@@ -6,17 +6,19 @@
 <h1 align="center">Erick Lopes dos Santos Carvalho</h1>
 <h3 align="center">Desenvolvedor Full Stack · IA aplicada ao desenvolvimento</h3>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/ErickLopesSC">
     <img src="https://img.shields.io/badge/GitHub-ErickLopesSC-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/erick-lopes-2k02/">
     <img src="https://img.shields.io/badge/LinkedIn-Erick%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ericklopesdossantoscarvalho@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-ericklopesdossantoscarvalho%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  <a href="mailto:ericklopesdossantoscarvalho@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
-</p>
+  <br><br>
+  <code>ericklopesdossantoscarvalho@gmail.com</code>
+</div>
 
 ---
 
