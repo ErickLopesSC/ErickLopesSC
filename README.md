@@ -13,8 +13,8 @@
   <a href="https://www.linkedin.com/in/erick-lopes-2k02/">
     <img src="https://img.shields.io/badge/LinkedIn-Erick%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:ericklopesdossantoscarvalho@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ericklopesdossantoscarvalho@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-ericklopesdossantoscarvalho%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 </p>
 
